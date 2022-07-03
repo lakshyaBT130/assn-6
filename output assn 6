@@ -1,0 +1,62 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+======================== RESTART: C:/Python310/assn6.py ========================
+
+Welcome to my Program
+5
+(False, False)
+
+Welcome to my Program
+Enter a word : jhj
+Yes, word is a palindrome
+
+Welcome to my Program
+      1 
+
+     1 1 
+
+    1 2 1 
+
+   1 3 3 1 
+
+  1 4 6 4 1 
+
+
+Welcome to my Program
+
+Enter a string : ydh
+False
+
+Welcome to my Program
+Enter the elements : 55
+
+Sorted elements : 
+55
+
+Welcome to my Program
+
+Student ID: 21102126
+Student Name : Karan Rai
+
+Student ID: 21102126
+Student Name : Karan Rai
+Student Name : Karan Rai
+Student Class : XII
+
+Welcome to my Program
+To check whether they are instances of said classes or not:
+True
+False
+True
+False
+
+To check whether the said classes are subclasses of the built-in object class or not:
+True
+True
+
+Welcome to my Program
+[[-10, 2, 8], [-7, -3, 10]]
+
+Welcome to my Program
+False
